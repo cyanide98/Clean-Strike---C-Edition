@@ -1,6 +1,7 @@
 A new game in carrom-board called Clean Strike is played by 2 players with multiple turn s. A
 turn has a player attempting to strike a coin with the striker. Players alternate in taking turns.
 The game is described as follows:
+
 ● There are 9 black coins, a red coin and a striker on the carrom-board
 ● Strike - When a player pockets a coin he/she wins a point
 ● Multi-strike - When a player pockets more than one coin he/she wins 2 points. All, but 2
@@ -18,6 +19,7 @@ he/she loses an additional point
 points more than the opponent
 ● When the coins are exhausted on the board, if the highest scorer is not leading by, at
 least, 3 points or does not have a minimum of 5 points, the game is considered a draw
+
 Write a program that takes in the outcome of each turn as input and outputs the result of the
 game as and when applicable along with necessary statistics that supports the result. Please
 find sample input and output below:
