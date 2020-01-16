@@ -32,3 +32,25 @@ least, 3 points or does not have a minimum of 5 points, the game is considered a
 Write a program that takes in the outcome of each turn as input and outputs the result of the
 game as and when applicable along with necessary statistics that supports the result. Please
 find sample input and output below:
+
+Sample Input:
+Player 1: Choose an outcome from the list below
+1. Strike
+2. Multistrike
+3. Red strike
+4. Striker strike
+5. Defunct coin
+6. None
+> 1
+Player 2: Choose an outcome from the list below
+1. Strike
+2. Multistrike
+3. Red strike
+4. Striker strike
+5. Defunct coin
+6. None
+> 6
+.
+.
+.
+Player 1 won the game. Final Score: 15-11
